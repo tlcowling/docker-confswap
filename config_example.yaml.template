@@ -1,0 +1,13 @@
+# An example configuration for which you can use 
+# ConfSwap!
+
+# Specify some hosts for a cluster of some sort
+hosts: %{HOSTS}
+
+# Coordinating node
+coordinating_node: %{COORDINATION_NODE}
+
+# Discombobulation rate
+discombobulation_rate: %{DISCOMBOBULATION_RATE}
+
+
